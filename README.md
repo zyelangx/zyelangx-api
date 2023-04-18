@@ -6,4 +6,7 @@
 npm start
 ```
 ## Port 3000
-Setelah kalian start lalu buka url http://localhost:3000
+Setelah kalian start lalu buka url [localhost:3000](http://localhost:3000)
+
+## Thanks To 
+[ZyeLangX](https://github.com/zyelangx)
