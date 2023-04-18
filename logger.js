@@ -1,4 +1,4 @@
-global.creator = "GilangFebrian"
+global.creator = "ZyeLangX"
 global.basepath = __dirname
 global.logger = {
     error: { code: 503, message: 'Error, Service Unavaible', creator: `${creator}`
