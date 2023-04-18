@@ -1,7 +1,7 @@
 {
-  "name": "asupan-api",
+  "name": "zylang-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "api-rest, ZyeLangX, lang, project, rest, api, youtubedl, asupan, islamic, downloader",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
